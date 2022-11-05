@@ -3,5 +3,5 @@ Components you need:
 -BC237 Transistor x3
 -1k ohm Resistor x3
 -234 ohm potantiometer x3
--9V Led strip
+-9V Led strip (I have nonadressable)
 -A power source (I used 9v 1A Power Supply)
